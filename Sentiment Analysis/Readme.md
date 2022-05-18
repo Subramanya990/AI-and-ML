@@ -30,4 +30,5 @@ In one of the later stages, we will be extracting numeric features from our Twit
 In this section, we will explore the cleaned tweets text. Exploring and visualizing data, no matter whether its text or any other data, it is an essential step in gaining insights.
 
 ## Deploying Models
+Next, features are extracted from the dataset using different methods such as BagOfWords(BOW),TF-IDF, Word2VEC.
 Final step is to apply various machine learning algorithms to the created feature sets for classifying data.
